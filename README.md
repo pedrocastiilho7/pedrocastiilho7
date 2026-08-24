@@ -2,7 +2,6 @@
 
 # 🚀 Bem-vindo(a) ao meu espaço!
 
-*Curioso(a) por natureza, programador(a) por escolha.*
 
 </div>
 
@@ -10,7 +9,7 @@
 
 ## 🧠 Um pouco sobre a minha jornada
 
-Gosto de encarar problemas como quebra-cabeças: entender a peça que falta e construir a solução com código limpo e funcional. Ainda estou em formação, mas já coloco a mão na massa em projetos reais, aprendendo na prática o que a teoria ensina.
+Gosto de encarar problemas, entender a peça que falta e construir a solução com código limpo e funcional. Ainda estou em formação, mas já realizo projetos reais, aprendendo na prática o que a teoria ensina.
 
 **🔭 Foco atual:** aprimorar minhas habilidades em lógica, boas práticas e desenvolvimento de projetos do zero.
 **🌱 Em constante evolução:** cada bug corrigido é um aprendizado a mais.
@@ -28,13 +27,11 @@ Gosto de encarar problemas como quebra-cabeças: entender a peça que falta e co
 
 ---
 
-## ✉️ Fale comigo
+## 📫 Conecte-se comigo
 
-<p align="left">
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es&color=blue&style=flat" alt="visitor badge"/>
 </p>
-
-<div align="center">
-<sub>Obrigado(a) pela visita! ⭐</sub>
-</div>
