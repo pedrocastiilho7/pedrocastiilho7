@@ -1,33 +1,40 @@
-<h1 align="center">Olá, tudo bem? 👋</h1>
+<div align="center">
 
-### Estudante de Ciência da Computação | Dev Junior
+# 🚀 Bem-vindo(a) ao meu espaço!
 
-Sou apaixonado por transformar ideias e regras de negócio em soluções de software eficientes. Venho evoluindo minha base técnica e unindo teoria acadêmica à prática exigida pelo mercado, sempre buscando aprender algo novo a cada projeto.
+*Curioso(a) por natureza, programador(a) por escolha.*
 
-## 🚀 Sobre mim
+</div>
 
-- 💻 **Atualmente estudando/trabalhando com:** desenvolvimento de aplicações, lógica de programação e boas práticas de código.
-- 🎯 **Objetivo:** crescer como desenvolvedor, contribuir com projetos reais e construir soluções que façam diferença.
-- 📚 Sempre disposto a aprender novas tecnologias e trocar conhecimento com a comunidade.
+---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🧠 Um pouco sobre a minha jornada
+
+Gosto de encarar problemas como quebra-cabeças: entender a peça que falta e construir a solução com código limpo e funcional. Ainda estou em formação, mas já coloco a mão na massa em projetos reais, aprendendo na prática o que a teoria ensina.
+
+**🔭 Foco atual:** aprimorar minhas habilidades em lógica, boas práticas e desenvolvimento de projetos do zero.
+**🌱 Em constante evolução:** cada bug corrigido é um aprendizado a mais.
+**🤝 Estou aberto a:** trocas de conhecimento, colaborações e novos desafios.
+
+---
+
+## 🧰 Caixa de ferramentas
+
+| Linguagens | Estilo & Web | Editor & Versionamento |
+|:---:|:---:|:---:|
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) |
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | |
+
+---
+
+## ✉️ Fale comigo
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## 📫 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es&color=blue&style=flat" alt="visitor badge"/>
-</p>
+<div align="center">
+<sub>Obrigado(a) pela visita! ⭐</sub>
+</div>
