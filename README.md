@@ -2,7 +2,6 @@
 
 # 🚀 Bem-vindo(a)!
 
-
 </div>
 
 ---
@@ -22,8 +21,8 @@ Gosto de encarar problemas, entender a peça que falta e construir a solução c
 | Linguagens | Estilo & Web | Editor & Versionamento |
 |:---:|:---:|:---:|
 | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) |
-| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![GitHub](https://cdn.simpleicons.org/github/ffffff) |
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
 
 ---
 
@@ -31,4 +30,3 @@ Gosto de encarar problemas, entender a peça que falta e construir a solução c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-castilho-307b45382/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrocastiilho7@gmail.com)
-
